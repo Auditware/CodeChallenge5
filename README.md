@@ -1,20 +1,20 @@
 # "Who Cast the Fuzz Spell?" - Audit Wizard Find the Bug Challenge #5
 
-Behold the master contract, a mystical artifact enabling users to cast spells of loans, deposit enchanted collateral, summon rewards, and engage in the arcane governance of the system !s
+Behold the financial contract, a mystical artifact enabling users to cast spells of loans, deposit enchanted collateral, summon rewards, and engage in the arcane governance of the system !
 
 In this unique collaboration with Zealynx Security you are tasked with sharpening up your fuzzing sorceries and use foundry fuzz testing to uncover the possibility of financial bugs within the contract.
 
-This time, the winning condition will be defined by the most accurate description of how you used fuzz testing to demonstrate bugs on the following topics:
+This time, the winning condition will be defined by the most accurate description of how you used fuzz testing to demonstrate financial bugs within the contract. These are the tests you should be writing:
 
-- **testFuzzCalculateInterest:** Ensure that the calculation functions return correct values.
+- **testFuzzCalculateInterest:** A test to ensure that the calculation functions return correct values.
 
-- **testPrecisionLoss:** Ensure that there isn't a chance of precision loss within the contract.
+- **testPrecisionLoss:** A test to ensure that there isn't a chance of precision loss within the contract.
 
-- **testFuzzCalculateReward:** Ensure that the calculation functions return correct values.
+- **testFuzzCalculateReward:** A test to ensure that the calculation functions return correct values.
 
 Bonus points - any other vulnerability discovered that is demonstrated by fuzzing.
 
-Correctly finding the 3 issues will unlock a commemorative badge in Audit Wizard. The badge will be added to your auditor profile. This is just the start—participate in each challenge to build your collection!
+Correctly finding the 3 issues will unlock a commemorative badge in Audit Wizard, which will be added to your auditor profile!
 
 ---
 
