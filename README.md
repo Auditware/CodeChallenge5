@@ -20,7 +20,7 @@ Correctly finding the 3 issues will unlock a commemorative badge in Audit Wizard
 
 [Zealynx Security](https://x.com/ZealynxSecurity), founded in January 2024 by Bloqarl and Sergio, specializes in smart contract audits, development, and security testing using Solidity and Rust. Their services include comprehensive smart contract audits, smart contract fuzzing, and formal verification test suites to enhance security reviews and ensure robust contract functionality. 
 
-They have an [educational repository](https://github.com/ZealynxSecurity/Zealynx) where we are organizing all types of resources, notes, and videos to help you continue learning about these technologies, as well as the [YouTube channels](https://youtube.com/@theblockchainer?si=1ua4ZEkbap0n1oHs) where you can learn a lot about fuzzing and various tools.
+They have an [educational repository](https://github.com/ZealynxSecurity/Zealynx) where they are organizing all types of resources, notes, and videos to help you continue learning about these technologies, as well as the [YouTube channels](https://youtube.com/@theblockchainer?si=1ua4ZEkbap0n1oHs) where you can learn a lot about fuzzing and various tools.
 
 <img width="900" alt="image" src="image/zealynx.png">
 
